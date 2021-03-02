@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Nick Wells. I write mostly Go code, mostly for the command line.
 <!--
 **nickwells/nickwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm currently working on ...
+
+- the `gosh` Go code runner - it allows you to write and run small Go programs from the command line
+- various command-line tools to help you write Go code.
+- a collection of Go modules. These work together and provide a lot of the functionality of `gosh` and the other tools
+- the param package - a powerful and flexible parameter parsing package for Go 
+
+### You can reach me...
+
+- on twitter @nickgwells
