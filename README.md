@@ -3,6 +3,7 @@
 I'm Nick Wells. I write mostly Go code, mostly for the command line.
 
 If you're looking for `gosh` see the [utilities](https://github.com/nickwells/utilities) repository
+(I gave [a talk](https://www.youtube.com/watch?v=Lv41EtkdZdU&t=134s) about it at London Gophers)
 <!--
 **nickwells/nickwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
